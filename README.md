@@ -57,7 +57,7 @@
 
 ## 🔥 Activity Snapshot
 <p align="center">
-  <img src="https://github.com/CodeByAfroj/CodeByAfroj/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/CodeByAfroj/CodeByAfroj/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
