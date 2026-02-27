@@ -37,20 +37,9 @@
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CodeByAfroj&show_icons=true&theme=tokyonight&count_private=true" height="165" alt="Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeByAfroj&theme=tokyonight" height="165" alt="Streaks" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=CodeByAfroj&theme=tokyonight&cache_seconds=1800" height="165" />
-</p>
-
----
-
-## 🏆 Achievements & Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CodeByAfroj&theme=radical&margin-w=10&margin-h=10&no-frame=true" />
 </p>
 
 ---
