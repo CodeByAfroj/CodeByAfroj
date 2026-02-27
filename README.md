@@ -43,35 +43,31 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CodeByAfroj&theme=solarized_dark" alt="Productive time" />
+  <img src="https://streak-stats.demolab.com?user=CodeByAfroj&theme=tokyonight&cache_seconds=1800" height="165" />
 </p>
 
 ---
 
 ## 🏆 Achievements & Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CodeByAfroj&theme=radical&no-frame=true&no-bg=true&margin-w=10&margin-h=10" alt="Trophies" />
-</p>
-
----
-
-## 🔥 Activity Snapshot
-<p align="center">
-  <img src="https://raw.githubusercontent.com/CodeByAfroj/CodeByAfroj/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github-profile-trophy.vercel.app/?username=CodeByAfroj&theme=radical&margin-w=10&margin-h=10&no-frame=true" />
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 <p align="center">
-  <a href="https://github.com/CodeByAfroj/project-one" target="_blank">
-    <img src="https://img.shields.io/badge/⚡_Project_One-blueviolet?style=for-the-badge&logo=github" alt="Project One" />
+  <a href="https://github.com/CodeByAfroj/Resume_Analyzer" target="_blank">
+    <img src="https://img.shields.io/badge/⚡_Resume Analyzer-blueviolet?style=for-the-badge&logo=github" alt="Resume Analyzer" />
   </a>
-  <a href="https://github.com/CodeByAfroj/project-two" target="_blank">
-    <img src="https://img.shields.io/badge/🚀_Project_Two-green?style=for-the-badge&logo=github" alt="Project Two" />
+  <a href="https://github.com/CodeByAfroj/AiBasedPersonalDashBoard" target="_blank">
+    <img src="https://img.shields.io/badge/🚀_AiBased Personal DashBoard-green?style=for-the-badge&logo=github" alt="AiBased Personal DashBoard" />
   </a>
-  <a href="https://github.com/CodeByAfroj/project-three" target="_blank">
-    <img src="https://img.shields.io/badge/🌌_Project_Three-orange?style=for-the-badge&logo=github" alt="Project Three" />
+  <a href="https://github.com/CodeByAfroj/Blockchain_Based_certificate_validation" target="_blank">
+    <img src="https://img.shields.io/badge/🌌_Blockchain_Based_certificate_validation-orange?style=for-the-badge&logo=github" alt="Blockchain_Based_certificate_validation" />
+  </a>
+   <a href="https://github.com/CodeByAfroj/DentBuddy" target="_blank">
+    <img src="https://img.shields.io/badge/🚀_DentBuddy-red?style=for-the-badge&logo=github" alt="DentBuddy" />
   </a>
 </p>
 
@@ -79,7 +75,7 @@
 
 ## ✨ How I Work
 - ⚙️ I design **fast, accessible, beautiful UIs** with React / Next.js / Tailwind.  
-- ⚡ I write **efficient, secure backends** with Node.js & Express.  
+- ⚡ I  write **efficient, secure backends** with Node.js & Express.  
 - 🤖 I automate workflows using AI & GitHub Actions.  
 - 💬 I mentor, collaborate, and contribute to open source communities.
 
@@ -87,13 +83,11 @@
 
 ## 🌐 Connect With Me
 <p align="center">
-  <a href="https://twitter.com/CodeByAfroj" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" height="35" alt="Twitter"/></a>
+  <a href="https://x.com/afroj_mulani26" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" height="35" alt="Twitter"/></a>
   &nbsp;
-  <a href="https://linkedin.com/in/CodeByAfroj" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="35" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/afroj-mulani" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="35" alt="LinkedIn"/></a>
   &nbsp;
-  <a href="https://codebyafroj.vercel.app" target="_blank"><img src="https://skillicons.dev/icons?i=vercel" height="35" alt="Website"/></a>
-  &nbsp;
-  <a href="mailto:codebyafroj@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" height="35" alt="Mail"/></a>
+  <a href="mailto:mulaniafroj6@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" height="35" alt="Mail"/></a>
 </p>
 
 ---
