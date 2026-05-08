@@ -9,7 +9,7 @@
 </h1>
 
 <p align="center">
-  <em>I craft pixel-perfect UIs, blazing-fast backends, and delightful developer experiences.</em>
+  <em>I craft pixel-perfect UIs, blazing-fast backends,  and delightful developer experiences.</em>
 </p>
 
 <p align="center">
